@@ -1,5 +1,6 @@
 {
     "files.exclude": {
         "**/Thumbs.db": false
-    }
+    },
+    "files.autoSave": "onFocusChange"
 }
