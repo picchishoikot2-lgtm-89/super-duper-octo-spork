@@ -2,5 +2,6 @@
     "files.exclude": {
         "**/Thumbs.db": false
     },
-    "files.autoSave": "onFocusChange"
+    "files.autoSave": "onFocusChange",
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
